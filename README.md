@@ -40,7 +40,7 @@ Frameworks de Priorización (ICE, RICE)
 
 ICE y RICE priorizan diferente debido al alcance.
 
-El grupo B mostró una mejora en conversión del X%.
+La tasa del grupo B mostró un aumento constante y significativo, superando a la del grupo A.
 
 Se identificaron outliers en pedidos.
 
